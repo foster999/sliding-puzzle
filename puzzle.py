@@ -22,7 +22,7 @@ pygame.init()
 
 screen = pygame.display.set_mode((SCREEN_DIMENSION, SCREEN_DIMENSION))
 
-pygame.display.set_caption("Tracking System")
+pygame.display.set_caption("Sliding Puzzle")
 
 # - objects -
 
